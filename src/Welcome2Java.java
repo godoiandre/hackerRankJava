@@ -16,7 +16,7 @@ Sample Output
  */
 
 
-public class welcome2Java {
+public class Welcome2Java {
     public static void main(String[] args) {
         System.out.println("Hello, World.");
         System.out.println("Hello, Java.");

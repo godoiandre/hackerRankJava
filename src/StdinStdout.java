@@ -15,7 +15,7 @@
 
  import java.util.*;
 
-public class stdinStdout {
+public class StdinStdout {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int a = scan.nextInt();
@@ -25,5 +25,6 @@ public class stdinStdout {
         System.out.println(a);
         System.out.println(b);
         System.out.println(c);
+        scan.close();
     }
 }
